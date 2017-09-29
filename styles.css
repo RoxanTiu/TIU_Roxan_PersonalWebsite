@@ -161,3 +161,9 @@ ul{
     background-color: white;
     text-align: center;
 }
+
+li{
+    display: inline-block;
+    margin: 0px 3px;
+}
+
