@@ -7,3 +7,10 @@
     background-image: url(image/tui-Recovered.png);
     background-repeat: no-repeat;
 }
+
+#photo{
+    float: left;
+    margin-left: 20px;
+    margin-top: -25%;
+    padding: 15px;
+}
