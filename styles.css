@@ -65,3 +65,9 @@ important{
     border-radius: 20px;
  }
     
+#line{
+    height: 1px;
+    width: 600px;
+    background-color:white;
+    margin-top: 1%;
+}
