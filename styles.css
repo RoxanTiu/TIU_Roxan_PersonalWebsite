@@ -232,3 +232,17 @@ blockquote{
     border-top: 1px solid black;
     border-bottom: 1px solid black;
 }
+
+.motto2{
+    float: right;
+    width: 200px;
+    color: darkslateblue;
+    font-size: 110%;
+    font-family: georgia;
+    font-style: italic;
+    margin-top: 1%;
+    margin-left: 25%;
+    padding: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
