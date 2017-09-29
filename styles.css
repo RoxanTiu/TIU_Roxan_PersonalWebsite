@@ -246,3 +246,17 @@ blockquote{
     border-top: 1px solid black;
     border-bottom: 1px solid black;
 }
+
+.motto3{
+    float: right;
+    width: 200px;
+    color: darkcyan;
+    font-size: 110%;
+    font-family: georgia;
+    font-style: italic;
+    margin-top: 1%;
+    margin-right: 25%;
+    padding: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
