@@ -37,3 +37,17 @@ important{
     padding: 3px;   
 }
 
+
+#table{
+    margin:auto;
+    margin-top: 50px;
+    margin-left: 120px;
+    background-color: #aaaaaa;
+    font-family: arial bold;
+    padding: 30px;
+    width: 75%;
+    height: 57%;
+    border-radius: 20px;    
+}
+
+
