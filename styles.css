@@ -87,3 +87,13 @@ important{
     padding: 20px;
     margin-top: 3%;
 }
+
+.quote{
+    margin-top: -10%;
+    margin-left: 40%;
+    font-family: georgia;
+    font-size: 120%;
+    font-style: italic;
+    color: cadetblue;
+    display: inline;
+}
