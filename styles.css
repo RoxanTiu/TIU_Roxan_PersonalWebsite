@@ -50,4 +50,18 @@ important{
     border-radius: 20px;    
 }
 
-
+#main{
+    background-color: #aaaaaa;
+    color: black;
+    margin:auto;
+    margin-top: 50px;
+    margin-left: 120px;
+    padding: 40px;
+    width: 75%;
+    height: 50%;
+    font-family: arial bold;
+    font-size: 120%;
+    text-align: justify;
+    border-radius: 20px;
+ }
+    
