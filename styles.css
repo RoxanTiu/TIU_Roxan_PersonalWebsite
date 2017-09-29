@@ -105,3 +105,12 @@ important{
     margin-top: -2%;
     margin-left: -2%;        
 }
+
+.head{
+    color: darkseagreen;
+    font-family: arial;
+    font-size: 250%;
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 2%;
+}
