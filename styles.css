@@ -262,3 +262,8 @@ blockquote{
 }
 
 {box-sizing:border-box}
+
+.container {
+    width: 90%;
+    background-color: #eeeeee;
+}
