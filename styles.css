@@ -71,3 +71,9 @@ important{
     background-color:white;
     margin-top: 1%;
 }
+
+#graph{
+    float: center;
+    margin-left: 100px;
+    margin-top: 5px;  
+}
