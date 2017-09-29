@@ -177,3 +177,12 @@ a{
 a:hover, a.on {
     color: blue;
 }
+
+.prof{
+    color: lightblue;
+    font-family: arial;
+    font-size: 250%;
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 2%;
+}
