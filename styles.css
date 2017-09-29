@@ -14,3 +14,14 @@
     margin-top: -25%;
     padding: 15px;
 }
+
+important{
+    background-color: #aaaaaa;
+    margin: auto;
+    margin-top: 50px;
+    font-family: arial bold;
+    padding: 10px;
+    width: 45%;
+    height: 35%;
+    border-radius: 20px;
+}
