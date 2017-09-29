@@ -15,7 +15,7 @@
     padding: 15px;
 }
 
-important{
+#important{
     background-color: #aaaaaa;
     margin: auto;
     margin-top: 50px;
@@ -281,5 +281,12 @@ blockquote{
     color: white;
 }
 .W{
+    color: white;
+}
+
+.skills {
+    text-align: right;
+    padding-right: 5px; 
+    line-height: 30px;
     color: white;
 }
